@@ -1,0 +1,1824 @@
+Component Type: resistor
+Stock Code:  RES_1R0
+Number in Stock: 41
+Price per unit: 1
+Information:  1R0
+
+Component Type: resistor
+Stock Code:  RES_10R
+Number in Stock: 467
+Price per unit: 1
+Information:  10R
+
+Component Type: resistor
+Stock Code:  RES_100R
+Number in Stock: 334
+Price per unit: 1
+Information:  100R
+
+Component Type: resistor
+Stock Code:  RES_1K0
+Number in Stock: 500
+Price per unit: 1
+Information:  1K0
+
+Component Type: resistor
+Stock Code:  RES_10K
+Number in Stock: 169
+Price per unit: 1
+Information:  10K
+
+Component Type: resistor
+Stock Code:  RES_100K
+Number in Stock: 724
+Price per unit: 1
+Information:  100K
+
+Component Type: resistor
+Stock Code:  RES_1M0
+Number in Stock: 478
+Price per unit: 1
+Information:  1M0
+
+Component Type: resistor
+Stock Code:  RES_10M
+Number in Stock: 358
+Price per unit: 1
+Information:  10M
+
+Component Type: resistor
+Stock Code:  RES_1R1
+Number in Stock: 962
+Price per unit: 1
+Information:  1R1
+
+Component Type: resistor
+Stock Code:  RES_11R
+Number in Stock: 464
+Price per unit: 1
+Information:  11R
+
+Component Type: resistor
+Stock Code:  RES_110R
+Number in Stock: 705
+Price per unit: 1
+Information:  110R
+
+Component Type: resistor
+Stock Code:  RES_1K1
+Number in Stock: 145
+Price per unit: 1
+Information:  1K1
+
+Component Type: resistor
+Stock Code:  RES_11K
+Number in Stock: 281
+Price per unit: 1
+Information:  11K
+
+Component Type: resistor
+Stock Code:  RES_110K
+Number in Stock: 827
+Price per unit: 1
+Information:  110K
+
+Component Type: resistor
+Stock Code:  RES_1M1
+Number in Stock: 961
+Price per unit: 1
+Information:  1M1
+
+Component Type: resistor
+Stock Code:  RES_11M
+Number in Stock: 491
+Price per unit: 1
+Information:  11M
+
+Component Type: resistor
+Stock Code:  RES_1R2
+Number in Stock: 995
+Price per unit: 1
+Information:  1R2
+
+Component Type: resistor
+Stock Code:  RES_12R
+Number in Stock: 942
+Price per unit: 1
+Information:  12R
+
+Component Type: resistor
+Stock Code:  RES_120R
+Number in Stock: 827
+Price per unit: 1
+Information:  120R
+
+Component Type: resistor
+Stock Code:  RES_1K2
+Number in Stock: 436
+Price per unit: 1
+Information:  1K2
+
+Component Type: resistor
+Stock Code:  RES_12K
+Number in Stock: 391
+Price per unit: 1
+Information:  12K
+
+Component Type: resistor
+Stock Code:  RES_120K
+Number in Stock: 604
+Price per unit: 1
+Information:  120K
+
+Component Type: resistor
+Stock Code:  RES_1M2
+Number in Stock: 902
+Price per unit: 1
+Information:  1M2
+
+Component Type: resistor
+Stock Code:  RES_12M
+Number in Stock: 153
+Price per unit: 1
+Information:  12M
+
+Component Type: resistor
+Stock Code:  RES_1R3
+Number in Stock: 292
+Price per unit: 1
+Information:  1R3
+
+Component Type: resistor
+Stock Code:  RES_13R
+Number in Stock: 382
+Price per unit: 1
+Information:  13R
+
+Component Type: resistor
+Stock Code:  RES_130R
+Number in Stock: 421
+Price per unit: 1
+Information:  130R
+
+Component Type: resistor
+Stock Code:  RES_1K3
+Number in Stock: 716
+Price per unit: 1
+Information:  1K3
+
+Component Type: resistor
+Stock Code:  RES_13K
+Number in Stock: 718
+Price per unit: 1
+Information:  13K
+
+Component Type: resistor
+Stock Code:  RES_130K
+Number in Stock: 895
+Price per unit: 1
+Information:  130K
+
+Component Type: resistor
+Stock Code:  RES_1M3
+Number in Stock: 447
+Price per unit: 1
+Information:  1M3
+
+Component Type: resistor
+Stock Code:  RES_13M
+Number in Stock: 726
+Price per unit: 1
+Information:  13M
+
+Component Type: resistor
+Stock Code:  RES_1R5
+Number in Stock: 771
+Price per unit: 1
+Information:  1R5
+
+Component Type: resistor
+Stock Code:  RES_15R
+Number in Stock: 538
+Price per unit: 1
+Information:  15R
+
+Component Type: resistor
+Stock Code:  RES_150R
+Number in Stock: 869
+Price per unit: 1
+Information:  150R
+
+Component Type: resistor
+Stock Code:  RES_1K5
+Number in Stock: 912
+Price per unit: 1
+Information:  1K5
+
+Component Type: resistor
+Stock Code:  RES_15K
+Number in Stock: 667
+Price per unit: 1
+Information:  15K
+
+Component Type: resistor
+Stock Code:  RES_150K
+Number in Stock: 299
+Price per unit: 1
+Information:  150K
+
+Component Type: resistor
+Stock Code:  RES_1M5
+Number in Stock: 35
+Price per unit: 1
+Information:  1M5
+
+Component Type: resistor
+Stock Code:  RES_15M
+Number in Stock: 894
+Price per unit: 1
+Information:  15M
+
+Component Type: resistor
+Stock Code:  RES_1R6
+Number in Stock: 703
+Price per unit: 1
+Information:  1R6
+
+Component Type: resistor
+Stock Code:  RES_16R
+Number in Stock: 811
+Price per unit: 1
+Information:  16R
+
+Component Type: resistor
+Stock Code:  RES_160R
+Number in Stock: 322
+Price per unit: 1
+Information:  160R
+
+Component Type: resistor
+Stock Code:  RES_1K6
+Number in Stock: 333
+Price per unit: 1
+Information:  1K6
+
+Component Type: resistor
+Stock Code:  RES_16K
+Number in Stock: 673
+Price per unit: 1
+Information:  16K
+
+Component Type: resistor
+Stock Code:  RES_160K
+Number in Stock: 664
+Price per unit: 1
+Information:  160K
+
+Component Type: resistor
+Stock Code:  RES_1M6
+Number in Stock: 141
+Price per unit: 1
+Information:  1M6
+
+Component Type: resistor
+Stock Code:  RES_16M
+Number in Stock: 711
+Price per unit: 1
+Information:  16M
+
+Component Type: resistor
+Stock Code:  RES_1R8
+Number in Stock: 253
+Price per unit: 1
+Information:  1R8
+
+Component Type: resistor
+Stock Code:  RES_18R
+Number in Stock: 868
+Price per unit: 1
+Information:  18R
+
+Component Type: resistor
+Stock Code:  RES_180R
+Number in Stock: 547
+Price per unit: 1
+Information:  180R
+
+Component Type: resistor
+Stock Code:  RES_1K8
+Number in Stock: 644
+Price per unit: 1
+Information:  1K8
+
+Component Type: resistor
+Stock Code:  RES_18K
+Number in Stock: 662
+Price per unit: 1
+Information:  18K
+
+Component Type: resistor
+Stock Code:  RES_180K
+Number in Stock: 757
+Price per unit: 1
+Information:  180K
+
+Component Type: resistor
+Stock Code:  RES_1M8
+Number in Stock: 37
+Price per unit: 1
+Information:  1M8
+
+Component Type: resistor
+Stock Code:  RES_18M
+Number in Stock: 859
+Price per unit: 1
+Information:  18M
+
+Component Type: resistor
+Stock Code:  RES_2R0
+Number in Stock: 723
+Price per unit: 1
+Information:  2R0
+
+Component Type: resistor
+Stock Code:  RES_20R
+Number in Stock: 741
+Price per unit: 1
+Information:  20R
+
+Component Type: resistor
+Stock Code:  RES_200R
+Number in Stock: 529
+Price per unit: 1
+Information:  200R
+
+Component Type: resistor
+Stock Code:  RES_2K0
+Number in Stock: 778
+Price per unit: 1
+Information:  2K0
+
+Component Type: resistor
+Stock Code:  RES_20K
+Number in Stock: 316
+Price per unit: 1
+Information:  20K
+
+Component Type: resistor
+Stock Code:  RES_200K
+Number in Stock: 35
+Price per unit: 1
+Information:  200K
+
+Component Type: resistor
+Stock Code:  RES_2M0
+Number in Stock: 190
+Price per unit: 1
+Information:  2M0
+
+Component Type: resistor
+Stock Code:  RES_20M
+Number in Stock: 842
+Price per unit: 1
+Information:  20M
+
+Component Type: resistor
+Stock Code:  RES_2R2
+Number in Stock: 288
+Price per unit: 1
+Information:  2R2
+
+Component Type: resistor
+Stock Code:  RES_22R
+Number in Stock: 106
+Price per unit: 1
+Information:  22R
+
+Component Type: resistor
+Stock Code:  RES_220R
+Number in Stock: 40
+Price per unit: 1
+Information:  220R
+
+Component Type: resistor
+Stock Code:  RES_2K2
+Number in Stock: 942
+Price per unit: 1
+Information:  2K2
+
+Component Type: resistor
+Stock Code:  RES_22K
+Number in Stock: 264
+Price per unit: 1
+Information:  22K
+
+Component Type: resistor
+Stock Code:  RES_220K
+Number in Stock: 648
+Price per unit: 1
+Information:  220K
+
+Component Type: resistor
+Stock Code:  RES_2M2
+Number in Stock: 446
+Price per unit: 1
+Information:  2M2
+
+Component Type: resistor
+Stock Code:  RES_22M
+Number in Stock: 805
+Price per unit: 1
+Information:  22M
+
+Component Type: resistor
+Stock Code:  RES_2R4
+Number in Stock: 890
+Price per unit: 1
+Information:  2R4
+
+Component Type: resistor
+Stock Code:  RES_24R
+Number in Stock: 729
+Price per unit: 1
+Information:  24R
+
+Component Type: resistor
+Stock Code:  RES_240R
+Number in Stock: 370
+Price per unit: 1
+Information:  240R
+
+Component Type: resistor
+Stock Code:  RES_2K4
+Number in Stock: 350
+Price per unit: 1
+Information:  2K4
+
+Component Type: resistor
+Stock Code:  RES_24K
+Number in Stock: 6
+Price per unit: 1
+Information:  24K
+
+Component Type: resistor
+Stock Code:  RES_240K
+Number in Stock: 101
+Price per unit: 1
+Information:  240K
+
+Component Type: resistor
+Stock Code:  RES_2M4
+Number in Stock: 393
+Price per unit: 1
+Information:  2M4
+
+Component Type: resistor
+Stock Code:  RES_24M
+Number in Stock: 548
+Price per unit: 1
+Information:  24M
+
+Component Type: resistor
+Stock Code:  RES_2R7
+Number in Stock: 629
+Price per unit: 1
+Information:  2R7
+
+Component Type: resistor
+Stock Code:  RES_27R
+Number in Stock: 623
+Price per unit: 1
+Information:  27R
+
+Component Type: resistor
+Stock Code:  RES_270R
+Number in Stock: 84
+Price per unit: 1
+Information:  270R
+
+Component Type: resistor
+Stock Code:  RES_2K7
+Number in Stock: 954
+Price per unit: 1
+Information:  2K7
+
+Component Type: resistor
+Stock Code:  RES_27K
+Number in Stock: 756
+Price per unit: 1
+Information:  27K
+
+Component Type: resistor
+Stock Code:  RES_270K
+Number in Stock: 840
+Price per unit: 1
+Information:  270K
+
+Component Type: resistor
+Stock Code:  RES_2M7
+Number in Stock: 966
+Price per unit: 1
+Information:  2M7
+
+Component Type: resistor
+Stock Code:  RES_27M
+Number in Stock: 376
+Price per unit: 1
+Information:  27M
+
+Component Type: resistor
+Stock Code:  RES_3R0
+Number in Stock: 931
+Price per unit: 1
+Information:  3R0
+
+Component Type: resistor
+Stock Code:  RES_30R
+Number in Stock: 308
+Price per unit: 1
+Information:  30R
+
+Component Type: resistor
+Stock Code:  RES_300R
+Number in Stock: 944
+Price per unit: 1
+Information:  300R
+
+Component Type: resistor
+Stock Code:  RES_3K0
+Number in Stock: 439
+Price per unit: 1
+Information:  3K0
+
+Component Type: resistor
+Stock Code:  RES_30K
+Number in Stock: 626
+Price per unit: 1
+Information:  30K
+
+Component Type: resistor
+Stock Code:  RES_300K
+Number in Stock: 323
+Price per unit: 1
+Information:  300K
+
+Component Type: resistor
+Stock Code:  RES_3M0
+Number in Stock: 537
+Price per unit: 1
+Information:  3M0
+
+Component Type: resistor
+Stock Code:  RES_30M
+Number in Stock: 538
+Price per unit: 1
+Information:  30M
+
+Component Type: resistor
+Stock Code:  RES_3R3
+Number in Stock: 118
+Price per unit: 1
+Information:  3R3
+
+Component Type: resistor
+Stock Code:  RES_33R
+Number in Stock: 82
+Price per unit: 1
+Information:  33R
+
+Component Type: resistor
+Stock Code:  RES_330R
+Number in Stock: 929
+Price per unit: 1
+Information:  330R
+
+Component Type: resistor
+Stock Code:  RES_3K3
+Number in Stock: 541
+Price per unit: 1
+Information:  3K3
+
+Component Type: resistor
+Stock Code:  RES_33K
+Number in Stock: 833
+Price per unit: 1
+Information:  33K
+
+Component Type: resistor
+Stock Code:  RES_330K
+Number in Stock: 115
+Price per unit: 1
+Information:  330K
+
+Component Type: resistor
+Stock Code:  RES_3M3
+Number in Stock: 639
+Price per unit: 1
+Information:  3M3
+
+Component Type: resistor
+Stock Code:  RES_33M
+Number in Stock: 658
+Price per unit: 1
+Information:  33M
+
+Component Type: resistor
+Stock Code:  RES_3R6
+Number in Stock: 704
+Price per unit: 1
+Information:  3R6
+
+Component Type: resistor
+Stock Code:  RES_36R
+Number in Stock: 930
+Price per unit: 1
+Information:  36R
+
+Component Type: resistor
+Stock Code:  RES_360R
+Number in Stock: 977
+Price per unit: 1
+Information:  360R
+
+Component Type: resistor
+Stock Code:  RES_3K6
+Number in Stock: 306
+Price per unit: 1
+Information:  3K6
+
+Component Type: resistor
+Stock Code:  RES_36K
+Number in Stock: 673
+Price per unit: 1
+Information:  36K
+
+Component Type: resistor
+Stock Code:  RES_360K
+Number in Stock: 386
+Price per unit: 1
+Information:  360K
+
+Component Type: resistor
+Stock Code:  RES_3M6
+Number in Stock: 21
+Price per unit: 1
+Information:  3M6
+
+Component Type: resistor
+Stock Code:  RES_36M
+Number in Stock: 745
+Price per unit: 1
+Information:  36M
+
+Component Type: resistor
+Stock Code:  RES_3R9
+Number in Stock: 924
+Price per unit: 1
+Information:  3R9
+
+Component Type: resistor
+Stock Code:  RES_39R
+Number in Stock: 72
+Price per unit: 1
+Information:  39R
+
+Component Type: resistor
+Stock Code:  RES_390R
+Number in Stock: 270
+Price per unit: 1
+Information:  390R
+
+Component Type: resistor
+Stock Code:  RES_3K9
+Number in Stock: 829
+Price per unit: 1
+Information:  3K9
+
+Component Type: resistor
+Stock Code:  RES_39K
+Number in Stock: 777
+Price per unit: 1
+Information:  39K
+
+Component Type: resistor
+Stock Code:  RES_390K
+Number in Stock: 573
+Price per unit: 1
+Information:  390K
+
+Component Type: resistor
+Stock Code:  RES_3M9
+Number in Stock: 97
+Price per unit: 1
+Information:  3M9
+
+Component Type: resistor
+Stock Code:  RES_39M
+Number in Stock: 512
+Price per unit: 1
+Information:  39M
+
+Component Type: resistor
+Stock Code:  RES_4R3
+Number in Stock: 986
+Price per unit: 1
+Information:  4R3
+
+Component Type: resistor
+Stock Code:  RES_43R
+Number in Stock: 290
+Price per unit: 1
+Information:  43R
+
+Component Type: resistor
+Stock Code:  RES_430R
+Number in Stock: 161
+Price per unit: 1
+Information:  430R
+
+Component Type: resistor
+Stock Code:  RES_4K3
+Number in Stock: 636
+Price per unit: 1
+Information:  4K3
+
+Component Type: resistor
+Stock Code:  RES_43K
+Number in Stock: 355
+Price per unit: 1
+Information:  43K
+
+Component Type: resistor
+Stock Code:  RES_430K
+Number in Stock: 767
+Price per unit: 1
+Information:  430K
+
+Component Type: resistor
+Stock Code:  RES_4M3
+Number in Stock: 655
+Price per unit: 1
+Information:  4M3
+
+Component Type: resistor
+Stock Code:  RES_43M
+Number in Stock: 574
+Price per unit: 1
+Information:  43M
+
+Component Type: resistor
+Stock Code:  RES_4R7
+Number in Stock: 31
+Price per unit: 1
+Information:  4R7
+
+Component Type: resistor
+Stock Code:  RES_47R
+Number in Stock: 52
+Price per unit: 1
+Information:  47R
+
+Component Type: resistor
+Stock Code:  RES_470R
+Number in Stock: 350
+Price per unit: 1
+Information:  470R
+
+Component Type: resistor
+Stock Code:  RES_4K7
+Number in Stock: 150
+Price per unit: 1
+Information:  4K7
+
+Component Type: resistor
+Stock Code:  RES_47K
+Number in Stock: 941
+Price per unit: 1
+Information:  47K
+
+Component Type: resistor
+Stock Code:  RES_470K
+Number in Stock: 724
+Price per unit: 1
+Information:  470K
+
+Component Type: resistor
+Stock Code:  RES_4M7
+Number in Stock: 966
+Price per unit: 1
+Information:  4M7
+
+Component Type: resistor
+Stock Code:  RES_47M
+Number in Stock: 430
+Price per unit: 1
+Information:  47M
+
+Component Type: resistor
+Stock Code:  RES_5R1
+Number in Stock: 107
+Price per unit: 1
+Information:  5R1
+
+Component Type: resistor
+Stock Code:  RES_51R
+Number in Stock: 191
+Price per unit: 1
+Information:  51R
+
+Component Type: resistor
+Stock Code:  RES_510R
+Number in Stock: 7
+Price per unit: 1
+Information:  510R
+
+Component Type: resistor
+Stock Code:  RES_5K1
+Number in Stock: 337
+Price per unit: 1
+Information:  5K1
+
+Component Type: resistor
+Stock Code:  RES_51K
+Number in Stock: 457
+Price per unit: 1
+Information:  51K
+
+Component Type: resistor
+Stock Code:  RES_510K
+Number in Stock: 287
+Price per unit: 1
+Information:  510K
+
+Component Type: resistor
+Stock Code:  RES_5M1
+Number in Stock: 753
+Price per unit: 1
+Information:  5M1
+
+Component Type: resistor
+Stock Code:  RES_51M
+Number in Stock: 383
+Price per unit: 1
+Information:  51M
+
+Component Type: resistor
+Stock Code:  RES_5R6
+Number in Stock: 945
+Price per unit: 1
+Information:  5R6
+
+Component Type: resistor
+Stock Code:  RES_56R
+Number in Stock: 909
+Price per unit: 1
+Information:  56R
+
+Component Type: resistor
+Stock Code:  RES_560R
+Number in Stock: 209
+Price per unit: 1
+Information:  560R
+
+Component Type: resistor
+Stock Code:  RES_5K6
+Number in Stock: 758
+Price per unit: 1
+Information:  5K6
+
+Component Type: resistor
+Stock Code:  RES_56K
+Number in Stock: 221
+Price per unit: 1
+Information:  56K
+
+Component Type: resistor
+Stock Code:  RES_560K
+Number in Stock: 588
+Price per unit: 1
+Information:  560K
+
+Component Type: resistor
+Stock Code:  RES_5M6
+Number in Stock: 422
+Price per unit: 1
+Information:  5M6
+
+Component Type: resistor
+Stock Code:  RES_56M
+Number in Stock: 946
+Price per unit: 1
+Information:  56M
+
+Component Type: resistor
+Stock Code:  RES_6R2
+Number in Stock: 506
+Price per unit: 1
+Information:  6R2
+
+Component Type: resistor
+Stock Code:  RES_62R
+Number in Stock: 30
+Price per unit: 1
+Information:  62R
+
+Component Type: resistor
+Stock Code:  RES_620R
+Number in Stock: 413
+Price per unit: 1
+Information:  620R
+
+Component Type: resistor
+Stock Code:  RES_6K2
+Number in Stock: 168
+Price per unit: 1
+Information:  6K2
+
+Component Type: resistor
+Stock Code:  RES_62K
+Number in Stock: 900
+Price per unit: 1
+Information:  62K
+
+Component Type: resistor
+Stock Code:  RES_620K
+Number in Stock: 591
+Price per unit: 1
+Information:  620K
+
+Component Type: resistor
+Stock Code:  RES_6M2
+Number in Stock: 762
+Price per unit: 1
+Information:  6M2
+
+Component Type: resistor
+Stock Code:  RES_62M
+Number in Stock: 655
+Price per unit: 1
+Information:  62M
+
+Component Type: resistor
+Stock Code:  RES_6R8
+Number in Stock: 410
+Price per unit: 1
+Information:  6R8
+
+Component Type: resistor
+Stock Code:  RES_68R
+Number in Stock: 359
+Price per unit: 1
+Information:  68R
+
+Component Type: resistor
+Stock Code:  RES_680R
+Number in Stock: 624
+Price per unit: 1
+Information:  680R
+
+Component Type: resistor
+Stock Code:  RES_6K8
+Number in Stock: 537
+Price per unit: 1
+Information:  6K8
+
+Component Type: resistor
+Stock Code:  RES_68K
+Number in Stock: 548
+Price per unit: 1
+Information:  68K
+
+Component Type: resistor
+Stock Code:  RES_680K
+Number in Stock: 483
+Price per unit: 1
+Information:  680K
+
+Component Type: resistor
+Stock Code:  RES_6M8
+Number in Stock: 595
+Price per unit: 1
+Information:  6M8
+
+Component Type: resistor
+Stock Code:  RES_68M
+Number in Stock: 41
+Price per unit: 1
+Information:  68M
+
+Component Type: resistor
+Stock Code:  RES_7R5
+Number in Stock: 602
+Price per unit: 1
+Information:  7R5
+
+Component Type: resistor
+Stock Code:  RES_75R
+Number in Stock: 350
+Price per unit: 1
+Information:  75R
+
+Component Type: resistor
+Stock Code:  RES_750R
+Number in Stock: 291
+Price per unit: 1
+Information:  750R
+
+Component Type: resistor
+Stock Code:  RES_7K5
+Number in Stock: 836
+Price per unit: 1
+Information:  7K5
+
+Component Type: resistor
+Stock Code:  RES_75K
+Number in Stock: 374
+Price per unit: 1
+Information:  75K
+
+Component Type: resistor
+Stock Code:  RES_750K
+Number in Stock: 20
+Price per unit: 1
+Information:  750K
+
+Component Type: resistor
+Stock Code:  RES_7M5
+Number in Stock: 596
+Price per unit: 1
+Information:  7M5
+
+Component Type: resistor
+Stock Code:  RES_75M
+Number in Stock: 21
+Price per unit: 1
+Information:  75M
+
+Component Type: resistor
+Stock Code:  RES_8R2
+Number in Stock: 348
+Price per unit: 1
+Information:  8R2
+
+Component Type: resistor
+Stock Code:  RES_82R
+Number in Stock: 199
+Price per unit: 1
+Information:  82R
+
+Component Type: resistor
+Stock Code:  RES_820R
+Number in Stock: 668
+Price per unit: 1
+Information:  820R
+
+Component Type: resistor
+Stock Code:  RES_8K2
+Number in Stock: 484
+Price per unit: 1
+Information:  8K2
+
+Component Type: resistor
+Stock Code:  RES_82K
+Number in Stock: 281
+Price per unit: 1
+Information:  82K
+
+Component Type: resistor
+Stock Code:  RES_820K
+Number in Stock: 734
+Price per unit: 1
+Information:  820K
+
+Component Type: resistor
+Stock Code:  RES_8M2
+Number in Stock: 53
+Price per unit: 1
+Information:  8M2
+
+Component Type: resistor
+Stock Code:  RES_82M
+Number in Stock: 999
+Price per unit: 1
+Information:  82M
+
+Component Type: resistor
+Stock Code:  RES_9R1
+Number in Stock: 418
+Price per unit: 1
+Information:  9R1
+
+Component Type: resistor
+Stock Code:  RES_91R
+Number in Stock: 938
+Price per unit: 1
+Information:  91R
+
+Component Type: resistor
+Stock Code:  RES_910R
+Number in Stock: 900
+Price per unit: 1
+Information:  910R
+
+Component Type: resistor
+Stock Code:  RES_9K1
+Number in Stock: 788
+Price per unit: 1
+Information:  9K1
+
+Component Type: resistor
+Stock Code:  RES_91K
+Number in Stock: 127
+Price per unit: 1
+Information:  91K
+
+Component Type: resistor
+Stock Code:  RES_910K
+Number in Stock: 467
+Price per unit: 1
+Information:  910K
+
+Component Type: resistor
+Stock Code:  RES_9M1
+Number in Stock: 728
+Price per unit: 1
+Information:  9M1
+
+Component Type: resistor
+Stock Code:  RES_91M
+Number in Stock: 893
+Price per unit: 1
+Information:  91M
+
+Component Type: capacitor
+Stock Code:  CAP_10pF
+Number in Stock: 648
+Price per unit: 12
+Information:  10pF
+
+Component Type: capacitor
+Stock Code:  CAP_100pF
+Number in Stock: 483
+Price per unit: 24
+Information:  100pF
+
+Component Type: capacitor
+Stock Code:  CAP_1000pf
+Number in Stock: 807
+Price per unit: 36
+Information:  1000pf
+
+Component Type: capacitor
+Stock Code:  CAP_10nF
+Number in Stock: 421
+Price per unit: 48
+Information:  10nF
+
+Component Type: capacitor
+Stock Code:  CAP_100nF
+Number in Stock: 310
+Price per unit: 60
+Information:  100nF
+
+Component Type: capacitor
+Stock Code:  CAP_1000nF
+Number in Stock: 617
+Price per unit: 72
+Information:  1000nF
+
+Component Type: capacitor
+Stock Code:  CAP_10uF
+Number in Stock: 813
+Price per unit: 84
+Information:  10uF
+
+Component Type: capacitor
+Stock Code:  CAP_100uF
+Number in Stock: 514
+Price per unit: 96
+Information:  100uF
+
+Component Type: capacitor
+Stock Code:  CAP_11pF
+Number in Stock: 309
+Price per unit: 11
+Information:  11pF
+
+Component Type: capacitor
+Stock Code:  CAP_110pF
+Number in Stock: 616
+Price per unit: 23
+Information:  110pF
+
+Component Type: capacitor
+Stock Code:  CAP_1100pf
+Number in Stock: 935
+Price per unit: 35
+Information:  1100pf
+
+Component Type: capacitor
+Stock Code:  CAP_11nF
+Number in Stock: 451
+Price per unit: 47
+Information:  11nF
+
+Component Type: capacitor
+Stock Code:  CAP_110nF
+Number in Stock: 600
+Price per unit: 59
+Information:  110nF
+
+Component Type: capacitor
+Stock Code:  CAP_1100nF
+Number in Stock: 249
+Price per unit: 71
+Information:  1100nF
+
+Component Type: capacitor
+Stock Code:  CAP_11uF
+Number in Stock: 519
+Price per unit: 83
+Information:  11uF
+
+Component Type: capacitor
+Stock Code:  CAP_110uF
+Number in Stock: 556
+Price per unit: 95
+Information:  110uF
+
+Component Type: capacitor
+Stock Code:  CAP_12pF
+Number in Stock: 798
+Price per unit: 10
+Information:  12pF
+
+Component Type: capacitor
+Stock Code:  CAP_120pF
+Number in Stock: 303
+Price per unit: 22
+Information:  120pF
+
+Component Type: capacitor
+Stock Code:  CAP_1200pf
+Number in Stock: 224
+Price per unit: 34
+Information:  1200pf
+
+Component Type: capacitor
+Stock Code:  CAP_12nF
+Number in Stock: 8
+Price per unit: 46
+Information:  12nF
+
+Component Type: capacitor
+Stock Code:  CAP_120nF
+Number in Stock: 844
+Price per unit: 58
+Information:  120nF
+
+Component Type: capacitor
+Stock Code:  CAP_1200nF
+Number in Stock: 609
+Price per unit: 70
+Information:  1200nF
+
+Component Type: capacitor
+Stock Code:  CAP_12uF
+Number in Stock: 989
+Price per unit: 82
+Information:  12uF
+
+Component Type: capacitor
+Stock Code:  CAP_120uF
+Number in Stock: 702
+Price per unit: 94
+Information:  120uF
+
+Component Type: capacitor
+Stock Code:  CAP_13pF
+Number in Stock: 195
+Price per unit: 9
+Information:  13pF
+
+Component Type: capacitor
+Stock Code:  CAP_130pF
+Number in Stock: 485
+Price per unit: 21
+Information:  130pF
+
+Component Type: capacitor
+Stock Code:  CAP_1300pf
+Number in Stock: 93
+Price per unit: 33
+Information:  1300pf
+
+Component Type: capacitor
+Stock Code:  CAP_13nF
+Number in Stock: 343
+Price per unit: 45
+Information:  13nF
+
+Component Type: capacitor
+Stock Code:  CAP_130nF
+Number in Stock: 523
+Price per unit: 57
+Information:  130nF
+
+Component Type: capacitor
+Stock Code:  CAP_1300nF
+Number in Stock: 587
+Price per unit: 69
+Information:  1300nF
+
+Component Type: capacitor
+Stock Code:  CAP_13uF
+Number in Stock: 314
+Price per unit: 81
+Information:  13uF
+
+Component Type: capacitor
+Stock Code:  CAP_130uF
+Number in Stock: 503
+Price per unit: 93
+Information:  130uF
+
+Component Type: capacitor
+Stock Code:  CAP_15pF
+Number in Stock: 448
+Price per unit: 8
+Information:  15pF
+
+Component Type: capacitor
+Stock Code:  CAP_150pF
+Number in Stock: 200
+Price per unit: 20
+Information:  150pF
+
+Component Type: capacitor
+Stock Code:  CAP_1500pf
+Number in Stock: 458
+Price per unit: 32
+Information:  1500pf
+
+Component Type: capacitor
+Stock Code:  CAP_15nF
+Number in Stock: 618
+Price per unit: 44
+Information:  15nF
+
+Component Type: capacitor
+Stock Code:  CAP_150nF
+Number in Stock: 580
+Price per unit: 56
+Information:  150nF
+
+Component Type: capacitor
+Stock Code:  CAP_1500nF
+Number in Stock: 796
+Price per unit: 68
+Information:  1500nF
+
+Component Type: capacitor
+Stock Code:  CAP_15uF
+Number in Stock: 798
+Price per unit: 80
+Information:  15uF
+
+Component Type: capacitor
+Stock Code:  CAP_150uF
+Number in Stock: 281
+Price per unit: 92
+Information:  150uF
+
+Component Type: capacitor
+Stock Code:  CAP_16pF
+Number in Stock: 589
+Price per unit: 7
+Information:  16pF
+
+Component Type: capacitor
+Stock Code:  CAP_160pF
+Number in Stock: 798
+Price per unit: 19
+Information:  160pF
+
+Component Type: capacitor
+Stock Code:  CAP_1600pf
+Number in Stock: 9
+Price per unit: 31
+Information:  1600pf
+
+Component Type: capacitor
+Stock Code:  CAP_16nF
+Number in Stock: 157
+Price per unit: 43
+Information:  16nF
+
+Component Type: capacitor
+Stock Code:  CAP_160nF
+Number in Stock: 472
+Price per unit: 55
+Information:  160nF
+
+Component Type: capacitor
+Stock Code:  CAP_1600nF
+Number in Stock: 622
+Price per unit: 67
+Information:  1600nF
+
+Component Type: capacitor
+Stock Code:  CAP_16uF
+Number in Stock: 538
+Price per unit: 79
+Information:  16uF
+
+Component Type: capacitor
+Stock Code:  CAP_160uF
+Number in Stock: 292
+Price per unit: 91
+Information:  160uF
+
+Component Type: capacitor
+Stock Code:  CAP_18pF
+Number in Stock: 38
+Price per unit: 6
+Information:  18pF
+
+Component Type: capacitor
+Stock Code:  CAP_180pF
+Number in Stock: 179
+Price per unit: 18
+Information:  180pF
+
+Component Type: capacitor
+Stock Code:  CAP_1800pf
+Number in Stock: 190
+Price per unit: 30
+Information:  1800pf
+
+Component Type: capacitor
+Stock Code:  CAP_18nF
+Number in Stock: 657
+Price per unit: 42
+Information:  18nF
+
+Component Type: capacitor
+Stock Code:  CAP_180nF
+Number in Stock: 958
+Price per unit: 54
+Information:  180nF
+
+Component Type: capacitor
+Stock Code:  CAP_1800nF
+Number in Stock: 191
+Price per unit: 66
+Information:  1800nF
+
+Component Type: capacitor
+Stock Code:  CAP_18uF
+Number in Stock: 815
+Price per unit: 78
+Information:  18uF
+
+Component Type: capacitor
+Stock Code:  CAP_180uF
+Number in Stock: 888
+Price per unit: 90
+Information:  180uF
+
+Component Type: capacitor
+Stock Code:  CAP_20pF
+Number in Stock: 156
+Price per unit: 5
+Information:  20pF
+
+Component Type: capacitor
+Stock Code:  CAP_200pF
+Number in Stock: 511
+Price per unit: 17
+Information:  200pF
+
+Component Type: capacitor
+Stock Code:  CAP_2000pf
+Number in Stock: 202
+Price per unit: 29
+Information:  2000pf
+
+Component Type: capacitor
+Stock Code:  CAP_20nF
+Number in Stock: 634
+Price per unit: 41
+Information:  20nF
+
+Component Type: capacitor
+Stock Code:  CAP_200nF
+Number in Stock: 272
+Price per unit: 53
+Information:  200nF
+
+Component Type: capacitor
+Stock Code:  CAP_2000nF
+Number in Stock: 55
+Price per unit: 65
+Information:  2000nF
+
+Component Type: capacitor
+Stock Code:  CAP_20uF
+Number in Stock: 328
+Price per unit: 77
+Information:  20uF
+
+Component Type: capacitor
+Stock Code:  CAP_200uF
+Number in Stock: 646
+Price per unit: 89
+Information:  200uF
+
+Component Type: capacitor
+Stock Code:  CAP_22pF
+Number in Stock: 362
+Price per unit: 4
+Information:  22pF
+
+Component Type: capacitor
+Stock Code:  CAP_220pF
+Number in Stock: 886
+Price per unit: 16
+Information:  220pF
+
+Component Type: capacitor
+Stock Code:  CAP_2200pf
+Number in Stock: 875
+Price per unit: 28
+Information:  2200pf
+
+Component Type: capacitor
+Stock Code:  CAP_22nF
+Number in Stock: 433
+Price per unit: 40
+Information:  22nF
+
+Component Type: capacitor
+Stock Code:  CAP_220nF
+Number in Stock: 869
+Price per unit: 52
+Information:  220nF
+
+Component Type: capacitor
+Stock Code:  CAP_2200nF
+Number in Stock: 142
+Price per unit: 64
+Information:  2200nF
+
+Component Type: capacitor
+Stock Code:  CAP_22uF
+Number in Stock: 844
+Price per unit: 76
+Information:  22uF
+
+Component Type: capacitor
+Stock Code:  CAP_220uF
+Number in Stock: 416
+Price per unit: 88
+Information:  220uF
+
+Component Type: capacitor
+Stock Code:  CAP_24pF
+Number in Stock: 881
+Price per unit: 3
+Information:  24pF
+
+Component Type: capacitor
+Stock Code:  CAP_240pF
+Number in Stock: 998
+Price per unit: 15
+Information:  240pF
+
+Component Type: capacitor
+Stock Code:  CAP_2400pf
+Number in Stock: 322
+Price per unit: 27
+Information:  2400pf
+
+Component Type: capacitor
+Stock Code:  CAP_24nF
+Number in Stock: 651
+Price per unit: 39
+Information:  24nF
+
+Component Type: capacitor
+Stock Code:  CAP_240nF
+Number in Stock: 21
+Price per unit: 51
+Information:  240nF
+
+Component Type: capacitor
+Stock Code:  CAP_2400nF
+Number in Stock: 699
+Price per unit: 63
+Information:  2400nF
+
+Component Type: capacitor
+Stock Code:  CAP_24uF
+Number in Stock: 557
+Price per unit: 75
+Information:  24uF
+
+Component Type: capacitor
+Stock Code:  CAP_240uF
+Number in Stock: 476
+Price per unit: 87
+Information:  240uF
+
+Component Type: capacitor
+Stock Code:  CAP_27pF
+Number in Stock: 892
+Price per unit: 2
+Information:  27pF
+
+Component Type: capacitor
+Stock Code:  CAP_270pF
+Number in Stock: 389
+Price per unit: 14
+Information:  270pF
+
+Component Type: capacitor
+Stock Code:  CAP_2700pf
+Number in Stock: 75
+Price per unit: 26
+Information:  2700pf
+
+Component Type: capacitor
+Stock Code:  CAP_27nF
+Number in Stock: 712
+Price per unit: 38
+Information:  27nF
+
+Component Type: capacitor
+Stock Code:  CAP_270nF
+Number in Stock: 600
+Price per unit: 50
+Information:  270nF
+
+Component Type: capacitor
+Stock Code:  CAP_2700nF
+Number in Stock: 510
+Price per unit: 62
+Information:  2700nF
+
+Component Type: capacitor
+Stock Code:  CAP_27uF
+Number in Stock: 3
+Price per unit: 74
+Information:  27uF
+
+Component Type: capacitor
+Stock Code:  CAP_270uF
+Number in Stock: 869
+Price per unit: 86
+Information:  270uF
+
+Component Type: capacitor
+Stock Code:  CAP_30pF
+Number in Stock: 861
+Price per unit: 1
+Information:  30pF
+
+Component Type: capacitor
+Stock Code:  CAP_300pF
+Number in Stock: 688
+Price per unit: 13
+Information:  300pF
+
+Component Type: capacitor
+Stock Code:  CAP_3000pf
+Number in Stock: 401
+Price per unit: 25
+Information:  3000pf
+
+Component Type: capacitor
+Stock Code:  CAP_30nF
+Number in Stock: 789
+Price per unit: 37
+Information:  30nF
+
+Component Type: capacitor
+Stock Code:  CAP_300nF
+Number in Stock: 255
+Price per unit: 49
+Information:  300nF
+
+Component Type: capacitor
+Stock Code:  CAP_3000nF
+Number in Stock: 423
+Price per unit: 61
+Information:  3000nF
+
+Component Type: capacitor
+Stock Code:  CAP_30uF
+Number in Stock: 2
+Price per unit: 73
+Information:  30uF
+
+Component Type: capacitor
+Stock Code:  CAP_300uF
+Number in Stock: 585
+Price per unit: 85
+Information:  300uF
+
+Component Type: diode
+Stock Code:  BY126
+Number in Stock: 118
+Price per unit: 12
+Information: No info
+
+Component Type: diode
+Stock Code:  BY127
+Number in Stock: 45
+Price per unit: 12
+Information: No info
+
+Component Type: diode
+Stock Code:  1N4001
+Number in Stock: 208
+Price per unit: 4
+Information: No info
+
+Component Type: diode
+Stock Code:  1N4004
+Number in Stock: 194
+Price per unit: 6
+Information: No info
+
+Component Type: diode
+Stock Code:  1N4148
+Number in Stock: 201
+Price per unit: 5
+Information: No info
+
+Component Type: transistor
+Stock Code:  AC125
+Number in Stock: 13
+Price per unit: 35
+Information:  PNP
+
+Component Type: transistor
+Stock Code:  AC126
+Number in Stock: 40
+Price per unit: 37
+Information:  PNP
+
+Component Type: transistor
+Stock Code:  BC107
+Number in Stock: 20
+Price per unit: 10
+Information:  NPN
+
+Component Type: transistor
+Stock Code:  BC108
+Number in Stock: 9
+Price per unit: 12
+Information:  NPN
+
+Component Type: transistor
+Stock Code:  TIS88A
+Number in Stock: 42
+Price per unit: 50
+Information:  FET
+
+Component Type: transistor
+Stock Code:  OC44
+Number in Stock: 57
+Price per unit: 50
+Information:  PNP
+
+Component Type: transistor
+Stock Code:  2N2369A
+Number in Stock: 37
+Price per unit: 18
+Information:  NPN
+
+Component Type: IC
+Stock Code:  NE555
+Number in Stock: 8
+Price per unit: 17
+Information:   "Timer"
+
+Component Type: IC
+Stock Code:  LF356
+Number in Stock: 1
+Price per unit: 45
+Information:   "JFET op-amp"
+
+Component Type: IC
+Stock Code:  Z80A
+Number in Stock: 0
+Price per unit: 800
+Information:  "CPU"
+
+Component Type: IC
+Stock Code:  TL741
+Number in Stock: 20
+Price per unit: 12
+Information:   "op-amp"
+
